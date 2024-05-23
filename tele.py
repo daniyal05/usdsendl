@@ -2,7 +2,7 @@ from telebot import *
 from us import *
 import time
 
-bot = TeleBot("6696351261:AAG0PSLvOmIecXyOAfqQVWdFAf_2QbDeEv4")
+bot = TeleBot("Your telegram token")
 
 
 @bot.message_handler(commands=['start'])
